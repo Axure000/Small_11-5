@@ -808,8 +808,8 @@
 }
 #u565 {
   position:absolute;
-  left:0px;
-  top:0px;
+  left:-1px;
+  top:245px;
   width:413px;
   height:572px;
 }
@@ -825,21 +825,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:412px;
-  height:542px;
+  width:413px;
+  height:241px;
 }
 #u567 {
   position:absolute;
-  left:1px;
-  top:571px;
-  width:412px;
-  height:542px;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:241px;
 }
 #u568 {
   position:absolute;
   left:2px;
-  top:263px;
-  width:408px;
+  top:112px;
+  width:409px;
   visibility:hidden;
   word-wrap:break-word;
 }
